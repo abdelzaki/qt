@@ -1004,7 +1004,6 @@
 - anschaffen:
 	- ich werde mir ein Auto anschaffen 
 
-
 - beachten:
 	- Bitte beachten Sie die Öffnungszeiten
 
@@ -1086,15 +1085,92 @@
 - hinausgehen:
 	- seine Hilfsbereitshaft geht weit über das normale Mass hinaus 
 
+- übertreffen:
+	- Sie übertrifft ihn an Intelligenz
 
+- Rat und Tat:
+	- ich stehe dir zur Seite mit Rat und Tat
 
+- Seele:
+	- die Seele
+	- ich will es von der Seele reden kann
 
+- ausschütten:
+	- ich wollte mein Herz bei ihr ausschütten
 
+- Herz:
+	- das Herz
+	- es ist mir an das Herz gewachsen
+	- das Herz auf der Zunge tragen
 
+- einteilen:
+	- ich muss mir die Zeit gut einteilen damit ich nicht hetzen muss
+	- die Aufgaben sind nach Schwerigkeiten eingeteilt
 
+- hinwegschauen:
+	- Ich konnte nicht hinwegschauen, als ich das kleine Kätzchen auf der Straße sah
 
+- kommen drum herum:
+	- wir konnen das nicht drum herum kommen 
 
+- angehen:
+	- wir mussen das Problem jetzt angehen damit es nicht zum einem grosseren Problem wird
+	- das geht dich nichts an
 
+- begründen:
+	- das bleibt deine Entscheidung aber du musst es begründen
+
+- misslingen, gelingen:
+	- es ist mir gelungen, misslungen das zu schaffen
+
+- frieren:
+	- ich frieren an den Fussen
+
+- grauen:
+	- ich graue mich von dem Gedanken dass ich morgen Prüfung habe 
+
+- bitten, erbitten:
+	- ich würde gerne deine Hilfe erbitten
+	- ich bitte dich um deine Unterstützung
+
+- denken, bedenken:
+	- ich muss die Folgen noch einmal bedenken
+	- ich denke an die Folgen
+
+- folgen, befolgen:
+	- ich folge dir 
+	- ich befolge die Anweisungen
+
+- hoffen, erhoffen:
+	- ich hoffe auf Besserung
+	- ich erhoffe mir eine schnelle Besserung
+
+- liefern,beliefern:
+	- wir leifern die Produkte 
+	- die Produkte werden beliefert
+
+- aufzählen:
+	- ich zähle die deine Möglichkeiten auf 
+
+- bekömmlich:
+	- das Essen ist sehr bekömmlich
+
+- beistehen:
+	- ich werde dir in dieser Situation sicherlich beistehen
+
+- aufgehen:
+	- Ich hoffe, dass mein Plan aufgeht.
+	- Ich verstehe, worauf du hinauswillst - jetzt geht mir ein Licht auf.
+
+- bevorstehen:
+	- Eine schwere Prüfung steht mir bevor.
+
+- nachstellen:
+	- Der Chef stellt seiner Sekretärin nach.
+
+- annehmen:
+	- ich werde das Angebot annehmen
+	- ich nehme mich deines Problem annehmen
 
 
 
@@ -1115,6 +1191,10 @@ Grammatik:
 - es sei denn:
 	- ich habe es immer gemacht, es sei denn ich habe keine Zeit
 
+- Imperative:
+	- mach das Handy aus
+	- macht das Handy aus
+	- machen sie das Handy aus
 
 
 
