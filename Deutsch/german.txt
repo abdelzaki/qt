@@ -281,7 +281,7 @@
 
 - Termin:
 	- der Termin
-	- einhalten - vereinbaren - festlegen - überschreiten 
+	- einhalten - vereinbaren - festlegen - überschreiten - ausmachen
 
 - überschreiten:	
 	- du hast die zulassige Geschwindigkeit überschritten 
@@ -393,8 +393,21 @@
 - sicherstellen:
 	- ich wollte sicherstellen dass dir gut geht 
 
+- zusichern
+	- ich kann dir zusichern dass ich mörgen kommen werde
+
+- versichern:
+	- ich werde mein Auto versichern
+
+- absichern:
+	- ich will mich gegen Einbrüche absichern 
+
+- zuversichtlich:
+	- ich bin zuversichtlich dass ich mein Ziel erreichen werde
+
 - notieren / aufschreiben:
 	- ich muss das notieren
+	- ich muss mir das aufschreiben
 
 - behalten:
 	- das hast du behalten
@@ -481,18 +494,6 @@
 - Mangel
 	- der Mangel
 	- es besteht grosser Mangel an Leute  
-
-- zusichern
-	- ich kann dir zusichern dass ich mörgen kommen werde
-
-- versichern:
-	- ich werde mein Auto versichern
-
-- absichern:
-	- ich will mich gegen Einbrüche absichern 
-
-- zuversichtlich:
-	- ich bin zuversichtlich dass ich mein Ziel erreichen werde
 
 - Erlaubnis:
 	- die Erlaubnis
@@ -674,6 +675,7 @@
 
 - hinauswachsen
 	- du wirst in der Situation hisauswachsen
+	- über sich selbst hinauswachsen
 
 - runterschrauben:
 	- ich muss meine Ansprüche runterschrauben
@@ -1041,7 +1043,7 @@
 
 - Vorwand:
 	- der Vorwand
-	- unte dem Vorwand dass er krank ist, hat er heute nicht gearbeitet 
+	- unter dem Vorwand dass er krank ist, hat er heute nicht gearbeitet 
 
 - Anreiz:
 	- der Anreiz
