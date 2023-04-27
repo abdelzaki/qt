@@ -43,7 +43,7 @@
 
 - schreiben:
 	- ich schreibe dir eine Email
-	- ich schreibe eine Email an dich
+	- ich schreibe eine Email an dir
 
 - Anspruch:
 	- der Anspruch
@@ -958,6 +958,7 @@
 	- beim Arbeiten werde ich unterbrochen
 	- ich mache mich an die Arbeit
 
+
 - überfordert:
 	- er klingt überfordrt
 
@@ -1173,6 +1174,87 @@
 - annehmen:
 	- ich werde das Angebot annehmen
 	- ich nehme mich deines Problem annehmen
+
+- bedürfen:
+	- es dedarf nur eines Wortes von dir 
+
+- begeben:
+	- ich begeb mich an die Arbeit 
+	- ich begebe mich meines Rechts
+
+- erfreuen:
+	- ich erfreue mich sich an meinem neuen Arbeitsplatz
+	- das Geschenk hat mich erfreut
+
+- fehlen:
+	- mir felht die Zeit
+	- es fehlt uns an der Zeit  
+
+- verlieren:
+	- ich haben meinen Schlüssel verloren
+	- ich habe das Interesse an der Arbeit verloren 
+
+- bauen:
+	- ich baue auf dich
+
+- belaufen:
+	- der Beitrag beläuft sich auf 100 Euro
+
+- einstellen:
+	- ich muss mich auf längere Wartzeiten einstellen
+
+- hinauslaufen:
+	- es wird auf Verzögerung hinauslaufen
+
+- hinausreden:
+	- er redet sich auf seine Krankheit hinaus
+
+- richten:
+	- ich richte mich nach dir
+	- ich riche mich an dich
+	- ich richte mich auf die Arbeit
+	- ich darfe nicht über ihn richten
+
+- resultieren:
+	- Seine Aggressivität resultiert aus seiner Unsicherheit.
+	- Unsicherheit resultiert oft in aggressivem Verhalten.
+
+- kehren:
+	- ich muss die Treppen kehren
+
+- abfinden:
+	- ich muss mich damit abfinden dass ich nicht bestanden habe 
+
+- abgeben:
+	- ich muss meinen Schlüssel abgeben
+	- ich gebe mich mit diesen Leuten nicht ab
+
+- blamieren, demütigen, Verlegenheit bringen:
+	- ich will dich nicht blamieren
+
+- angeben, sich aufspielen, aufschneiden, prahlen:
+	- er gibt immer mit seinem Auto an
+	- er prahlt immer mit seinem Auto
+	- er spielt sich als ein Chef auf
+
+- umgeben:
+	- Das Haus ist von einem großen Garten umgeben
+
+- zusammenstossen:
+	- gestern ist ein LKV mit dem auto zusammengestossen
+
+- aufnehmen:
+	- ich nehme den Kontakt mit ihm auf
+	- ich nehme mein Studium auf
+
+- erteilen:	
+	- ich erteile dir die Antwort 
+
+
+
+
+
+
 
 
 
