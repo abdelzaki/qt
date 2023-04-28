@@ -504,6 +504,12 @@
 	- ich habe starkes Bedürfnis nach Essen
 	- auf Verlangen die Fahrkarte vorzeigen
 
+- Wunsch:
+	- der Wunsch
+	- ich habe den Wunsch
+	- auf Wunsch kann man auch
+
+
 - betreuen:
 	- ich muss das Projekt betreuen
 
@@ -1250,9 +1256,91 @@
 - erteilen:	
 	- ich erteile dir die Antwort 
 
+- Computer:
+	- der Computer
+	- ich mache viel am Computer 
+
+- untersuchen:
+	- ich sollte mich genuar úntersuchen lassen
+	- das muss untersucht werden
+
+- Beschwerde:
+	- die Beschwerde 
+	- es gabe viele Beschwerden
+
+- zubereiten:
+	- ich bereite das Essen zu 
+
+- Wäsche:
+	- die Wäsche
+	- ich muss die wiesse Wäsche getrennt von der bunten wachen
+	- ich muss die Wäsche machen
+
+- Abneigung, Vorlieben:
+	- die Abneigung , die Vorliebe
+	- ich habe Abneigung gegenüber dem Chef
+	- ich habe vorliebe für den Chef
+
+- Parkplatz:
+	- der Parkplatz
+	- auf einem Parkplatz parken
+	- auf einen anderen parkplatz fahren
+
+- Markt:
+	- der Markt 
+	- ich bin auf dem Markt, ich gehe auf den Markt, ich kaufe auf dem Markt 
+
+- träge:
+	- ich war träge und ich konnte nich schnell genug reagieren
+
+- stress:
+	- der Stress
+	- ich stande unter Stress
+	- es ist stressig 
+	- stress auf der Arbeit haben
+
+	- 
+- zuweisen:
+	- er hat mir eine Aufgabe zugewiesen
+	- ich habe meine zugewiesenen Aufgaben erledigt
+
+- Norden, Süden, Osten, Westen:
+	- ich komme aus dem Norden des Landes
+
+- gertiggericht:
+	- das Fertiggericht
+	- ich esse viel Fertiggerichte wenn ich auf Reisen bin
+
+- überschneiden:
+	- die Zwei Termine überschneiden sich um 15 Minuten 
 
 
+- geraüsch:
+	- ich empfinde das Geräusch als unangenehem
 
+- Geruch:
+	- der Geruch, die Gerüche
+	- der Geruch von Essen macht mich glücklich
+
+- wahrnehmen:
+	- ich kann den Termin leider nicht wahrnehmen
+	- welcher Anwalt nimmt ihre Interessen wahr
+	- ich muss die Chance wahrnehmen
+
+- Chance
+	- die Chance - die Chancen
+	- unsere Chancen stehen gut
+	- ich habe nicht die geringste Chance das zu schaffen
+
+- Verlust, Gewinn:
+	- der Verlust, der Gewinn
+	- das ist ein grosser Verlust 
+
+- Eintstieg
+	- der Einstieg in der Firma war gut 
+
+- pflicht:
+	- die Pflicht
 
 
 
@@ -1280,8 +1368,23 @@ Grammatik:
 	- macht das Handy aus
 	- machen sie das Handy aus
 
-
-
+- Adjektiv:
+- M:
+	- der gute Garten   - ein guter Garten    - guter Garten = mein
+	- den guten Gartem	- einen guten Garten  - guten Garten
+	- dem guten Garten  - einem Guten Garten  - gutem Garten
+- F:
+	- die gute Frau 	- eine gute Frau       - gute Frau
+	- die gute Fraue	- ein gute Frau        - gute Frau
+	- der guten Frau 	- einer guten Frau     - guter Frau
+- N:
+	- das gute Auto 	- ein gutes Auto 		- gutes Auto
+	- das gute Auto   	- ein gutes Auto 		- gutes Auto
+	- dem guten Auto 	- einen guten Auto      - gutem Auto
+- p:
+	- die guten Freunde  -                      - gute Freunde -> meine guten
+	- die guten Freunde 						- gute Freunde  -> meine guten
+	- den guten Freunden                        - guten Freunden -> meinen guten
 
 
 
