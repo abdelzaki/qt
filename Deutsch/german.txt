@@ -43,7 +43,7 @@
 
 - schreiben:
 	- ich schreibe dir eine Email
-	- ich schreibe eine Email an dir
+	- ich schreibe eine Email an dich
 
 - Anspruch:
 	- der Anspruch
@@ -174,7 +174,7 @@
 	- mir fehlt das richtige Werkzeug 
 
 - Kompliment:
-	-  das Kompliment
+	- das Kompliment
 	- er macht mir ein Kompliment über mein Aussehen
 
 - bestehen:
@@ -186,6 +186,8 @@
 	- unsere Chancen stehen gut
 	- ich stehe auf der Bushaltestelle
 	- lass es stehen das mache ich später 
+	- ich stehe dir zur Seite 
+
 
 - orientieren:
 	- ich orientiere mich nach dem Plan
@@ -218,6 +220,7 @@
 	- an der Vereinbarten Stelle
 
 - Punkt:
+	- der Punkt
 	- ich habe den Punkt erreicht, an dem ich eine Entscheidung treffen muss
 
 - Effekt:
@@ -231,6 +234,7 @@
 	- ich habe meinen Teil gemacht 
 	- das ist ein Teil des jobs
 	- ich habe zum Teil gekauft und zum Teil selbst gemacht
+	- die Aufgabe ist zum grossen Teil erledigt 
 
 - Tendentz:
 	- die Tendenz
@@ -365,6 +369,10 @@
 	- der Zustand
 	- ich befinde mich in sehr gutem Zustand 
 
+- Stand:
+	- der Stand
+	- ist das auf dem aktuellen Stand
+
 - ergeben:
 	- die Untersuchung hat ergeben dass 
 	- aus der Untersuchung ergibt sich dass 
@@ -480,9 +488,11 @@
 - Fokus:
 	- der Fokus
 	- ich will nicht den Fokus verlieren
+	- mein Fokus war nicht drauf
+
 
 - hinweisen:	
-	- ich will dich darauf hinweisen 
+	- ich will dich/Sie darauf hinweisen 
 	- Der Lehrer hat uns auf die Wichtigkeit von Hausaufgaben hingewiesen.
 
 - Bedarf:
@@ -490,6 +500,7 @@
 	- der Bedarf an diesem Produkt ist hoch
 	- dieser Artikel bedark Erklärung
 	- bei Bedarf kannst du mich anrufen 
+	- es gibt hier Gesprächbedarf
 
 - Mangel
 	- der Mangel
@@ -508,7 +519,6 @@
 	- der Wunsch
 	- ich habe den Wunsch
 	- auf Wunsch kann man auch
-
 
 - betreuen:
 	- ich muss das Projekt betreuen
@@ -537,7 +547,7 @@
 - einarbeiten:
 	- ich werde mich in das Thema erste einarbeiten
 
-- vertraut machen:
+- vertraut mich machen:
 	- ich mache mich erste mit diesem Thema vertraut
 
 - auseinadersetzen:
@@ -557,6 +567,7 @@
 
 - vornehmen:
 	- ich nehme mir vor das heute zu machen
+	- wir müssen die AUfgabe die wir uns vorgenommen haben, erledigen
 
 - skeptisch:
 	- ich bin einbischen skeptisch 
@@ -809,6 +820,7 @@
 	- ich brauche 10 Minuten
 	- jede Minute
 	- alle Zwei Minuten
+	- hast du eine Minute für mich
 
 - Stunde:
 	- die Stunde, Stunden
@@ -899,6 +911,7 @@
 - Zweck, Ziel:
 	- der Zweck, das Ziel
 	- der Zweck des Meetings ist dass wir etwas schaffen werden
+	- er erfüllt keinen Zweck mehr
 
 - einwandfrei:
 	- es funktionert einwandfrei
@@ -964,7 +977,6 @@
 	- beim Arbeiten werde ich unterbrochen
 	- ich mache mich an die Arbeit
 
-
 - überfordert:
 	- er klingt überfordrt
 
@@ -1015,6 +1027,12 @@
 
 - beachten:
 	- Bitte beachten Sie die Öffnungszeiten
+
+- achten:	
+	- ich muss den Verkehr beachen
+
+- missachten:
+	- er hat die Verkehrsregeln missachtet
 
 - angewiesen:
 	- ich bin auf ihn angewiesen 
@@ -1179,7 +1197,7 @@
 
 - annehmen:
 	- ich werde das Angebot annehmen
-	- ich nehme mich deines Problem annehmen
+	- ich nehme mich deines Problems an
 
 - bedürfen:
 	- es dedarf nur eines Wortes von dir 
@@ -1191,6 +1209,7 @@
 - erfreuen:
 	- ich erfreue mich sich an meinem neuen Arbeitsplatz
 	- das Geschenk hat mich erfreut
+	- ich wollte dich erfreuen 
 
 - fehlen:
 	- mir felht die Zeit
@@ -1214,6 +1233,8 @@
 
 - hinausreden:
 	- er redet sich auf seine Krankheit hinaus
+	- anstatt mich hinauszureden, ich muss mich fragen wie kann die Situation verbessern
+	- ich werde nicht versuchen mich hinauszureden, ich habe einen Fehler gemacht und ich stehe dazu
 
 - richten:
 	- ich richte mich nach dir
@@ -1232,8 +1253,9 @@
 	- ich muss mich damit abfinden dass ich nicht bestanden habe 
 
 - abgeben:
-	- ich muss meinen Schlüssel abgeben
+	- ich muss meinen Schlüssel an HR abgeben
 	- ich gebe mich mit diesen Leuten nicht ab
+	- ich muss das an den Projektleiter abgeben
 
 - blamieren, demütigen, Verlegenheit bringen:
 	- ich will dich nicht blamieren
@@ -1261,7 +1283,7 @@
 	- ich mache viel am Computer 
 
 - untersuchen:
-	- ich sollte mich genuar úntersuchen lassen
+	- ich sollte mich genuar untersuchen lassen
 	- das muss untersucht werden
 
 - Beschwerde:
@@ -1281,6 +1303,27 @@
 	- ich habe Abneigung gegenüber dem Chef
 	- ich habe vorliebe für den Chef
 
+- geschmack:
+	- der geschmack
+	- ich habe guten geschmack
+
+- fahren / gehen:
+	- ich fahre auf den Parkplatz, zum Flughafen, Zum Supermarkt, zur Schule, zur Arbeit,
+	zu einem Freund, in den Urlaub, zum Artz, in die Toilette, auf Klo 
+
+- ich bin:
+	- auf dem Flughafen  
+
+
+- weiterleiten:
+	- ich leite das an den Chef an 
+
+- versenden:
+	- ich werde es an dich versenden, an die Kollegen
+
+- überweisen:
+	- ich überweise das Geld auf dein Konto
+
 - Parkplatz:
 	- der Parkplatz
 	- auf einem Parkplatz parken
@@ -1293,13 +1336,12 @@
 - träge:
 	- ich war träge und ich konnte nich schnell genug reagieren
 
-- stress:
+- Stress:
 	- der Stress
 	- ich stande unter Stress
 	- es ist stressig 
 	- stress auf der Arbeit haben
 
-	- 
 - zuweisen:
 	- er hat mir eine Aufgabe zugewiesen
 	- ich habe meine zugewiesenen Aufgaben erledigt
@@ -1307,15 +1349,15 @@
 - Norden, Süden, Osten, Westen:
 	- ich komme aus dem Norden des Landes
 
-- gertiggericht:
+- Fertiggericht:
 	- das Fertiggericht
 	- ich esse viel Fertiggerichte wenn ich auf Reisen bin
 
 - überschneiden:
 	- die Zwei Termine überschneiden sich um 15 Minuten 
 
-
 - geraüsch:
+	- das Geraüsch
 	- ich empfinde das Geräusch als unangenehem
 
 - Geruch:
@@ -1337,11 +1379,347 @@
 	- das ist ein grosser Verlust 
 
 - Eintstieg
+	- der Einstieg
 	- der Einstieg in der Firma war gut 
+	- ich wollte den Einstieg schaffen
 
-- pflicht:
+- Pflicht:
 	- die Pflicht
 
+- zu Schaden kommen:
+	- ich habe gestern meinen Freund zu schaden kommen lassen 
+	- ich bin gestern zu Schaden kommen 
+
+- Bauteil, Komponente:
+	- das Bauteil, die Konponente 
+	- wir mussen das defekte Bauteil austauschen
+
+- konzipieren:
+	- das Bauteil ist so konzipiert das es hohe Tempertaure ertragen kann
+
+- anmelden:
+	- ich kann nicht bei meinem Email-konto nicht anmelden
+
+- entspannen:
+	- Gartenarbeit entspannt mich 
+
+- trauen:
+	- ich traue mich nicht das zu machen
+	- ich traue ihm
+
+- vertrauen:
+	- ich vertraue ihm
+	- das vertrauen
+	- ich habe blindes vertrauen in ihn
+
+- Vertrag:
+	- der Vertrag
+	- ich habe den Vertrag unterschrieben
+	- sie können denVertrag auflösen
+
+
+- beschimpfen:
+	- er hat mich beschimpft 
+
+beim:
+	- beim Arbeiten, beim Einparken, Beim Essen
+
+- anfahren , streifen:
+	- ich habe beim Einparken ein anderes Auto gestreift / angefahren
+	- 
+- Tasche:
+	- die Tasche
+	- ich habe mehr Geld in der Tasche
+	- ich muss tief in die Tasche greifen
+
+- Reise:
+	- die Reise
+	- ich bin auf Reisen
+
+- ablösen:
+	- ich werde dich um 18:00 uhr ablösen
+
+- Fenster:
+	- das Fenster 
+	- am Fenster sitzen
+
+- leihen:
+	- er hat mir sein Fahrräd geliehen
+
+- abstellen:
+	- darf ich hier abstellen
+
+- bereiten
+	- ich will dir keine Schwerigkeiten bereiten 
+
+- beheben:
+	- ich habe den Fehler behoben 
+
+- Strand:
+	- der Strand
+	- ich gehen an den Strand, zum Strand
+	- ich bin am Strand 
+
+- Restaurant:
+	- das Restaurant
+	- ich gehe ins Resturant, ich bin im Restaurant 
+
+- Rabatt:
+	- der Rabatt
+	- ich kann dir einen Rabatt auf alle Waren gewähren
+
+- verabredeb
+	- ich bin schon verabredet
+
+- wundern:
+	- ich wundere mich warum hast du das gemacht
+
+- bewundern:
+	- ich bewundere seine Leistung sehr 
+
+- ansehen:
+	- ich habe mir einen Film angesehen
+	- ich habe ihn als Freund angesehen
+
+- anziehen:
+	- ich ziehe mir das Kleid an
+
+- ausdenken:
+	- ich muss mehr was neues ausdenken
+
+- duschen:
+	- ich dusche mich abends,morgens
+	- ich dusche mich kalt
+	- ich brauche fliessendes Wasser 
+	- ich wollte frisch in den Tag starten 
+
+- kosten:
+	- das kostet mich ein Vermögen
+
+- einweichen:
+	- ich muss die kleidung einweichen
+
+- geschehen:
+	- was ist dir gestern geschehe
+
+- einfühllen, ausleern:
+	- ich muss den Becher ausleern/ einfühlen 
+
+- stellen / zurückstellen:
+	- ich werde das geschirr in die Spühlmaschine stellen / zurückstellen
+
+- abtrocken, abkühlen:
+	- lass es bitte abtrocken 
+
+-räumen:
+	- ich muss den Schrank leer räumen
+
+- ausmisten / aussortieren:
+	- ich muss den Schrank ausmisten und alles was ich nicht brauche wegschmeissen
+
+- einsetzen:
+	- wir müssen unsere Resourcen sinnvoll einsetzen
+	- er hat sich für mich eingesetzt
+	- wir sollen ein Fenster in das Dach einsetzen lassen
+
+- Baum:
+	- der Baum, die Bäume
+
+- Maus:
+	- die Maus, die Mäsue
+
+- entgehen:
+	- dieser Fehler ist mir entgangen
+	- leider ist mit versehentlich entgangen, das Zusattblatt mitzubringen 
+
+- Bedutung:
+	- die Bedutung
+	- es ist für mich von grosser Bedutung 
+	- ich hoffe auf ihr Verständnis 
+
+- gegenzug:
+	- ich mache einen gegenzug indem ich das bieten kann
+
+- einig:
+	- es ist gut dass wir über solche Punkte einig
+
+- nachvollziehbar:
+	- es ist nachvollziehbar
+
+- implementieren:
+	- es ist halb implementiert. es fehlen noch einige wichtige Elemente die wir in den nächsten Wochen fertigstellen werden. 
+
+- Element:
+	- das Element
+
+- fertigstellen:
+	- ich werde das Projekt bald fertigstellen
+
+- interpretation:
+	- die Interpretation
+	- es gibt zu viel interpretation Raum 
+
+- Liste:
+	- die Liste
+	- das habe ich auf der Liste
+
+- vorhalten:
+	- ich weiss nicht ob wir das vorhalten können
+
+- Grund:
+	- der Grund
+	- der Grund wurde nicht genannt 
+	- der Grund wurde nicht kommuniziert 
+
+- kommen zu:
+	- ich habe gerade viel zu tun aber ich werde auf jeden Fall später dazu kommen, auf deine Email zu antworten 
+	- ich komme gerade zu nichts 
+
+- Hinterkopf:
+	- der Hinterkopf 
+	- ich muss das im Hinterkopf behalten
+
+- Störung:
+	- die Störung
+	- in Fall der Störung
+
+- zutreffend:
+	- ich weiss nicht ob diese Aussage zutreffend ist 
+
+- enthalten:
+	- das enthälte wichtige Information über das Projekt 
+	- das ist im Preis enthalten 
+
+- Geiz:
+	- der Geiz
+	- Geiz ist nicht gut 
+	- er ist sehr geizig
+	- er ist sehr sparsam 
+
+- Ehrgeiz:
+	- der Ehrgeiz
+	- er ist sehr Ehrgeizig
+
+- Grenze
+	- die Grenze
+	- ich wolle klare Grenzen setzen, in dem er gesagt hat 
+
+- grenzen:
+	- das grenzt an Geiz
+
+- PechVogel:
+	- der Pechvogel
+	- ich bin ein absoluter Pechvogel, wenn es drum geht 
+
+- Brett:
+	- das Brett
+	- er hat ein Brett vor dem Kopf wenn es um Datenschatz geht
+
+- auseinanderfallen:
+	- das Team wird leider auseinanderfällen wenn das passiert 
+
+- ausdünnen:
+	- sie wollen das Team ausdünnen
+
+- stumpf / scharf:
+	- das Messer is stumpf 
+
+- reinpacken:
+	- ich muss meine Kleidung ordentlich reinpacken
+
+- Koffer:
+	- der Koffer
+	- ich muss meine Koffer packen bevor ich in den Urlaub fahre 
+
+- vorgeben
+	- die Anforderung sind so vorgegeben 
+
+- wurscht:
+	- das ist mir wurscht
+	- was für ein Auto ich fahre ist mir total wurscht, habe sache es bringt mich von A nach B
+
+- übel:
+	- es klingt übel auf jeden fall
+
+- ausfallen:
+	- wir lassen das Heute ausfallen
+	- es fällt heute aus 
+
+- reinklatschen:
+	- sie wollen die Aufgabe reinklatschen
+
+- Zeit fressen:
+	- das fresst auch viel zeit die ich eigentlich brauche um meine Arbeit zu machen  
+
+- Richtung:
+	- die Richtung
+	- welche Richtung ist mir egal/ wurscht
+	- ich gehe in die andere Richtung
+
+- vereinheitlichen:
+	- wir müssen es vereinheitlichen 
+
+- ankommen:
+	- es kommt drauf an
+	- es kommt auf den Tag nicht an
+	- ich komme gegen ihn nicht an
+	- das kommt bei uns sehr gut an
+	- der Zug ist angekommen
+
+- abtun:
+	- ich habe das Problem abgetan 
+
+- abhaken:
+	- ich habe den Punkt abgehakt 
+
+- schirm:
+	- der Schirm 
+	- ich gebe meinen Bildschirm frei
+
+- zerlegen:
+	- ich kann es in kleinere aufgaben zerlegen
+
+- schieben:
+	- wir schieben das nach hinten
+
+- ändern:
+	- es wird sich in zukünft ändern
+
+- räumen:
+	- ich wollte das bei seite räumen
+
+- Kontakt:
+	- der Kontakt
+	- ich habe den Kontakt zu ihm nicht verloren 
+
+- Geist:
+	- die Geist
+	- mein Laptop hat die Geist aufgegeben
+
+- Bock / Lust:
+	- der Bock
+	- ich habe keinen Bock auf
+	- ich habe keine lust auf
+
+- Ticket:
+	- das Ticket
+	- ich ziehe mir das Ticket
+
+- Bekleidung:
+	- die Bekleidung
+	- für jede Rolle gibt es eine Bekleidung
+
+- Anruf:
+	- der Anruf
+	- ich muss den Anruf entgegennehmen
+	- ich muss einen Anruf machen
+
+- hartnäckig:
+	- er ist sehr hartnäckige Person
+	- er ist hartnäckig wie ein Esel
+
+
+---
 
 
 
@@ -1386,10 +1764,40 @@ Grammatik:
 	- die guten Freunde 						- gute Freunde  -> meine guten
 	- den guten Freunden                        - guten Freunden -> meinen guten
 
+- passiv:
+	- Vorgang:
+		- ein Brief wird von mir geschrieben 
+		- ein Brief wurde von mir geschrieben 
+		- ein Brief ist von mir geschrieben worden 
+		- ein Brief war von mir geschreiben worden
+		- ein Brief wird von mir geschrieben werden 
 
+	- Zustand:
+		- der Brief ist geschrieben 
 
+	- mit Dativ: 
+		- Dativ beliebt im Dativ
+		- Socken werden dem Enkel von Oma geschickt
+		- dem Schüler wird geholfen 
+		- dem Chef wird gratuliert, den Chefs wird grautuliert
 
+	- mit hilfs verben
+		- die Miete muss bezahlt werden 
 
+	- mit lassen:
+		- das Wasser lässt sich trinken
+		- das Auto lässt sich reparieren 
+
+- Konjuktiv 1:
+	- 
+
+- Konjuktiv 2:
+	- Höfflichkeit:
+		- hättest du eine Zeit für mich
+	- Vorschläge:
+		- du könntest jemanden anrufen 
+	- Wünsche:
+		- wenn ich da wäre, würde ich das machen
 
 
 
