@@ -20,6 +20,10 @@
 - unverhältnismässig:
 	- das Kind ist für sein Alter unverhältnisnässig gross
 
+- angemessen:
+	- mein Gehalt ist nicht angemessen
+	- mein Gehalt ist der Leistung angemessen 
+
 - Freude:
 	- die Freude 
 	- ich habe viel Freude an der Arbeit 
@@ -45,13 +49,13 @@
 	- ich schreibe dir eine Email
 	- ich schreibe eine Email an dich
 
-- Anspruch:
+- Anspruch: ---------------
 	- der Anspruch
 	- er stelle einen hohen Anspruch an ihn
 	- du hast einen Anspruch auf Essen
 	- die Arbeit nimmt mich in Anspruch
 
-- berechtigen:
+- berechtigen: ----------------
 	- das berechtigt dich zum Eintritt
 
 - hinterlassen:
@@ -188,7 +192,6 @@
 	- lass es stehen das mache ich später 
 	- ich stehe dir zur Seite 
 
-
 - orientieren:
 	- ich orientiere mich nach dem Plan
 	- wir orientieren uns an der Kunde
@@ -232,7 +235,7 @@
 - Teil:
 	- der Teil
 	- ich habe meinen Teil gemacht 
-	- das ist ein Teil des jobs
+	- das ist ein Teil des jobs / der Wahrheit
 	- ich habe zum Teil gekauft und zum Teil selbst gemacht
 	- die Aufgabe ist zum grossen Teil erledigt 
 
@@ -294,6 +297,9 @@
 	- ich muss den Termin auf Donnerstag verschieben
 	- die Abreise verschiebt sich um 2 Wochen
 
+- schieben:
+	- wir schieben das nach hinten
+
 - erträglich:
 	- die schmerzen sind erträglich
 
@@ -333,6 +339,9 @@
 - Arbeitsweise:
 	- die Arbeitsweise
 	- er hat nicht die gute Arbeitsweise
+
+- schrittweise:
+	- klein anfagen und dann schrtittweise skalieren und Risiko zu minimieren 
 
 - Zug, Bus, Bahn
 	- der Zug
@@ -377,10 +386,7 @@
 	- die Untersuchung hat ergeben dass 
 	- aus der Untersuchung ergibt sich dass 
 	- das ergibt keinen Sinn
-
-- angemessen:
-	- mein Gehalt ist nicht angemessen
-	- mein Gehalt ist der Leistung angemessen 
+	- es hat sich nicht ergeben
 
 - beziehen:
 	- ich beziehe mich auf das Gespräch von gestern 
@@ -490,7 +496,6 @@
 	- ich will nicht den Fokus verlieren
 	- mein Fokus war nicht drauf
 
-
 - hinweisen:	
 	- ich will dich/Sie darauf hinweisen 
 	- Der Lehrer hat uns auf die Wichtigkeit von Hausaufgaben hingewiesen.
@@ -574,6 +579,7 @@
 
 - vermeiden:
 	- ich versuche das zu vermeiden
+	- ich vermeide ihn
 
 - ausweichen:
 	- ich weiche ihm aus
@@ -587,7 +593,7 @@
 - beharren:
 	- ich beharre auf meiner Meinung
 
-- einreden / einreden:
+- einreden / ausreden:
 	- ich habe ihm ausreden/einreden
 
 - vom hörensagen:
@@ -617,7 +623,7 @@
 - absetzen:
 	- wo soll ich dich absetzen
 	- kann ich das Auto von der Steuerung absetzen
-	- ich werde den Koffe absetzen
+	- ich werde den Koffer absetzen
 	- ich will die Medikament absetzen
 
 - ansetzen:
@@ -644,6 +650,7 @@
 	- ich muss durchbeissen bis ich die Aufgabe durchziehen
 
 - Bein:
+	- das Bein
 	- ich stehe auf eignen Beinen stehen und ich verdiene mein eigenen Geld
 
 - Erfolg:
@@ -814,6 +821,7 @@
 	- jede Sekunde
 	- alle zwei Sekunden
 
+
 - Minute:
 	- die Minute, Minuten
 	- ein paar Minuten
@@ -821,6 +829,7 @@
 	- jede Minute
 	- alle Zwei Minuten
 	- hast du eine Minute für mich
+	- in einer Minute
 
 - Stunde:
 	- die Stunde, Stunden
@@ -840,6 +849,7 @@
 	- jeden Tag
 	- alle Zwei Tage
 	- an jedem Tag
+	- ich mache das diesen Tag 
 
 - Woche:
 	- die Woche, Wochen
@@ -854,10 +864,12 @@
 	- jeden Monat
 	- alle Zwei Monate
 	- monatlich
+	- in einem Monat / in sechs Monaten
 
 - Jahr:
 	- das Jahr, Jahre
 	- jedes Jahr
+	- in 2 jahren
 
 - widerstehen:
 	- ich könnte dem Angebot nicht widerstehen
@@ -1202,6 +1214,8 @@
 - bedürfen:
 	- es dedarf nur eines Wortes von dir 
 
+
+
 - begeben:
 	- ich begeb mich an die Arbeit 
 	- ich begebe mich meines Rechts
@@ -1282,6 +1296,10 @@
 	- der Computer
 	- ich mache viel am Computer 
 
+- Laptop:
+	- der Laptop
+	- ich mache viel am Laptop
+
 - untersuchen:
 	- ich sollte mich genuar untersuchen lassen
 	- das muss untersucht werden
@@ -1313,7 +1331,6 @@
 
 - ich bin:
 	- auf dem Flughafen  
-
 
 - weiterleiten:
 	- ich leite das an den Chef an 
@@ -1387,11 +1404,12 @@
 	- die Pflicht
 
 - zu Schaden kommen:
+	- bedeutet verletzt
 	- ich habe gestern meinen Freund zu schaden kommen lassen 
 	- ich bin gestern zu Schaden kommen 
 
 - Bauteil, Komponente:
-	- das Bauteil, die Konponente 
+	- das Bauteil, die Komponente 
 	- wir mussen das defekte Bauteil austauschen
 
 - konzipieren:
@@ -1426,7 +1444,7 @@ beim:
 
 - anfahren , streifen:
 	- ich habe beim Einparken ein anderes Auto gestreift / angefahren
-	- 
+
 - Tasche:
 	- die Tasche
 	- ich habe mehr Geld in der Tasche
@@ -1468,7 +1486,7 @@ beim:
 	- der Rabatt
 	- ich kann dir einen Rabatt auf alle Waren gewähren
 
-- verabredeb
+- verabreden
 	- ich bin schon verabredet
 
 - wundern:
@@ -1679,9 +1697,6 @@ beim:
 - zerlegen:
 	- ich kann es in kleinere aufgaben zerlegen
 
-- schieben:
-	- wir schieben das nach hinten
-
 - ändern:
 	- es wird sich in zukünft ändern
 
@@ -1718,10 +1733,20 @@ beim:
 	- er ist sehr hartnäckige Person
 	- er ist hartnäckig wie ein Esel
 
+- Bett:
+	- das Bett
+	- ich freue mich ins Bett zu gehen
+	- ich liege gerne in meinem gemütliched Bett
+
+- Gebäude:
+	- das Gebäude
+	- das ist seht schönes Gebäude
+
+
 
 ---
 
-
+Kabitel,
 
 
 
@@ -1801,6 +1826,26 @@ Grammatik:
 
 
 
+- doch / mal:
+	- hier bedeut why wont you
+	- zieh dir doch einen Manel an
+	- trink doch mehr Wasser
+	- ruf doch den Krankwagen an
+
+- bloss:
+	- mach das bloss nie wieder
+	- 
+
+- eben / halt:
+	- hier bedeutet dass ich unzufrieden bin
+	- das musst du das halt / eben machen 
+	- dann musst du morgen halt / eben wieder kommen
+	- das ist halt so / das ist eben so
+
+- sowieso / eh:
+	- das machen wir sowieseo
+	- das Handy ist eh kapput 
+	- das habe ich eh gemacht 
 
 
 
